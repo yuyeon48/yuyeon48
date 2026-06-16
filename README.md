@@ -57,5 +57,6 @@ Currently exploring graduate research while pursuing backend engineering roles.
 ## 📫 Contact
 
 - 📍 Seoul, South Korea
-- 💼 Open to backend internships & graduate research opportunities
+- 💼 stu2440@gmail.com
+- 💼 https://app.notion.com/p/Portfolio-306e4a5e71ab80288263d2fef56c0edc
 - 🐙 [@yuyeon48](https://github.com/yuyeon48)
