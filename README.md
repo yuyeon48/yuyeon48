@@ -34,12 +34,11 @@ Backend engineering is my foundation — I design APIs and data flows first, the
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [트라이나 · Tryna](#) | React 19 · TypeScript · TanStack Query · Zustand | Personal-assistant calendar. Owned the frontend API infra — auth flow, 401 retry queueing — and cut home-screen API calls from 30+ to 3 by renegotiating the response schema with backend. UMC 10th, 2026.07–08. |
+| [트라이나 · Tryna](https://github.com/tryna-team/frontend.git) | React 19 · TypeScript · TanStack Query · Zustand | Personal-assistant calendar. Owned the frontend API infra — auth flow, 401 retry queueing — and cut home-screen API calls from 30+ to 3 by renegotiating the response schema with backend. UMC 10th, 2026.07–08. |
 | [반려동물 응급도 판단 서비스 · BabyMungsoo](https://github.com/BabyMungsoo) | Spring Boot · PostgreSQL · Spring Security · Claude API | AI agent that judges pet emergency severity and recommends nearby vets. Backend for hospital-finder & analysis-record domains; designed the photo–consultation-session data flow with the backend team. 2026.04– (ongoing). |
 | [Stock Lens](https://github.com/yuyeon48/StockLens) | Java · Spring Boot · MySQL · OAuth2 | Solo project — Korean stock dashboard with KIS Open API integration, Google OAuth2, local AI model (Ollama) stock recommendations, and Chart.js visualization. 2026.02– (ongoing). |
 | [맞춤 · CustomFit](https://github.com/yuyeon48/CustomFitProject1) | Python · Django REST Framework · React | Personalized nutrition-comparison service. Backend lead — JWT auth, Django Signals for auto-generated recommendation profiles, custom user model. 멋쟁이사자처럼 12th hackathon, 2024.07–08. |
 
-*(Tryna's team repository link to be added — currently under a team org.)*
 
 ---
 
