@@ -30,6 +30,14 @@ Backend engineering is my foundation — I design APIs and data flows first, the
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| **SQLD** (SQL Developer) | Korea Data Agency (한국데이터산업진흥원) |
+
+---
+
 ## 📂 Projects
 
 | Project | Stack | Description |
